@@ -1,4 +1,4 @@
-# e-commerce-backend
+# React-Ecommerce
 This is the backend of the e-commerce frontend.
 
 The api is hosted on https://sayan2005.pythonanywhere.com/
